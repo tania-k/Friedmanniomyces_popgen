@@ -1,0 +1,26 @@
+Strain	EV1	EV2	MetaData	Distance from Ocean	Elevation	Year	Sample Type	Ploidy
+5001	0.33319095	-0.110593334	Timber Peak	162.65	3000	1997	sandstone	Haploid
+5193	0.33194347	-0.109893767	Timber Peak	162.65	3000	1997	sandstone	Diploid
+5195	0.2319779	0.01005571	Boomerang Glacier	100	1000	1997	granite	Diploid
+5199	0.23124148	0.012197015	Trio Nunataks	177.83	1000	1997	sandstone	Triploid
+5200	0.23086972	0.011623775	Trio Nunataks	177.83	1000	1997	sandstone	Triploid
+5208	0.22672518	0.015869067	Promontory	119.35	200	1997	sandstone	Diploid
+524	0.18045246	-0.024231547	Linnaeus Terrace	200	2000	1981	soil	Diploid
+5273	0.17827763	-0.023287034	Convoy Range	145.76	3000	2004	sandstone	Triploid
+5275	0.17605474	0.098952422	Linnaeus Terrace	200	2000	2004	sandstone	Diploid
+5277	0.04618691	-0.13337287	Battleship Promontory	200	1000	2004	sandstone	Diploid
+5281	0.04561561	-0.130056604	Battleship Promontory	200	1000	2004	sandstone	Diploid
+5283	0.04358621	-0.131164767	Battleship Promontory	200	1000	2004	sandstone	Diploid
+5307	0.00100009	-0.002579535	Battleship	145	1000	2004	sandstone	Diploid
+5311	-0.07269914	0.186402116	Ford Peak	152	3000	2004	sandstone	Diploid
+5311_v1	-0.07939866	0.652245072	Ford Peak	152	2000	2004	sandstone	Diploid
+5486	-0.11306361	0.598217335	IL CAMPO	146.96	1000	2004	sandstone	Haploid
+6074	-0.21368594	-0.097236446	Stewart Heights	142.78	3000	2011	sandstone	Haploid
+6081	-0.21827441	-0.098195907	Mt Bowen	111.92	2000	2011	sandstone	Diploid
+6082	-0.21973869	-0.100842381	Pudding Butte	111.92	2000	2011	granite	Haploid
+6096	-0.22232489	-0.104387874	Anderson Ridge	122.66	1000	2010	sandstone	Diploid
+6249	-0.22261587	-0.102909319	Timber Peak	162.64	3000	2010	sandstone	Diploid
+6250	-0.2234431	-0.103637549	Trio Nunatak	177.83	1000	2010	sandstone	Haploid
+6464	-0.22375527	-0.103962363	Mn New Zealand	167.99	3000	2016	sandstone	Diploid
+670	-0.22379881	-0.104798154	McMurdo Dry Valleys	100	1000	1981	sandstone	Diploid
+690	-0.22432398	-0.104413062	McMurdo Dry Valleys	100	1000	1981	sandstone	Diploid
