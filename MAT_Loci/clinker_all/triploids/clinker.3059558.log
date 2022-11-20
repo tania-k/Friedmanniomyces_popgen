@@ -1,0 +1,805 @@
+r05
+[22:55:27] INFO - Starting clinker
+[22:55:27] INFO - Parsing files:
+[22:55:27] INFO -   CCFEE_5199_Friedmanniomyces_endolithicus_MAT1.gbk
+[22:55:27] INFO -   CCFEE_5199_Friedmanniomyces_endolithicus_MAT2.gbk
+[22:55:27] INFO -   CCFEE_5199_Friedmanniomyces_endolithicus_MAT3.gbk
+[22:55:27] INFO -   CCFEE_5200_Friedmanniomyces_endolithicus_MAT1.gbk
+[22:55:27] INFO -   CCFEE_5200_Friedmanniomyces_endolithicus_MAT2.gbk
+[22:55:27] INFO -   CCFEE_5200_Friedmanniomyces_endolithicus_MAT3.gbk
+[22:55:27] INFO -   CCFEE_5273_Friedmanniomyces_endolithicus_MAT1.gbk
+[22:55:27] INFO -   CCFEE_5273_Friedmanniomyces_endolithicus_MAT2.gbk
+[22:55:27] INFO -   CCFEE_5273_Friedmanniomyces_endolithicus_MAT3.gbk
+[22:55:27] INFO -   CCFEE_5277_Friedmanniomyces_endolithicus_MAT1.gbk
+[22:55:27] INFO -   CCFEE_5277_Friedmanniomyces_endolithicus_MAT2.gbk
+[22:55:27] INFO -   CCFEE_5277_Friedmanniomyces_endolithicus_MAT3.gbk
+[22:55:27] INFO - Starting cluster alignments
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5199_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5199_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5199_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+[22:55:27] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+[22:55:27] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:27] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+[22:55:28] INFO - CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+[22:55:28] INFO - CCFEE_5273_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5277_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+[22:55:28] INFO - CCFEE_5277_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:28] INFO - CCFEE_5277_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+[22:55:30] INFO - Generating results summary...
+[22:55:30] INFO - Building clustermap.js visualisation
+[22:55:30] INFO - Writing to: Fried_triploids.html
+[22:55:30] INFO - Done!
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5199_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                      Target                     Identity  Similarity
+ncbi:Ascomycota_010146-T1  ncbi:Ascomycota_008173-T1  0.95      0.96      
+ncbi:Ascomycota_010147-T1  ncbi:Ascomycota_008172-T1  0.87      0.93      
+ncbi:Ascomycota_010148-T1  ncbi:Ascomycota_008171-T1  0.97      0.99      
+ncbi:Ascomycota_010149-T1  ncbi:Ascomycota_008170-T1  0.99      0.99      
+ncbi:Ascomycota_007409-T1  ncbi:Ascomycota_018318-T1  0.54      0.55      
+ncbi:Ascomycota_007412-T1  ncbi:Ascomycota_018316-T1  0.50      0.53      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5199_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                     Identity  Similarity
+ncbi:Ascomycota_010145-T1  ncbi:Ascomycota_002011-T1  0.97      0.98      
+ncbi:Ascomycota_010146-T1  ncbi:Ascomycota_002010-T1  0.92      0.94      
+ncbi:Ascomycota_010147-T1  ncbi:Ascomycota_002009-T1  0.86      0.92      
+ncbi:Ascomycota_010148-T1  ncbi:Ascomycota_002008-T1  0.97      0.98      
+ncbi:Ascomycota_010149-T1  ncbi:Ascomycota_002007-T1  0.99      0.99      
+ncbi:Ascomycota_007409-T1  ncbi:Ascomycota_006606-T1  0.35      0.35      
+ncbi:Ascomycota_007412-T1  ncbi:Ascomycota_006604-T1  0.50      0.52      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_010145-T1  ncbi:LTR91_008180-T1  1.00      1.00      
+ncbi:Ascomycota_010146-T1  ncbi:LTR91_008181-T1  1.00      1.00      
+ncbi:Ascomycota_010147-T1  ncbi:LTR91_008182-T1  1.00      1.00      
+ncbi:Ascomycota_010148-T1  ncbi:LTR91_008183-T1  1.00      1.00      
+ncbi:Ascomycota_010149-T1  ncbi:LTR91_008184-T1  1.00      1.00      
+ncbi:Ascomycota_007409-T1  ncbi:LTR91_000677-T1  1.00      1.00      
+ncbi:Ascomycota_007410-T1  ncbi:LTR91_000676-T1  1.00      1.00      
+ncbi:Ascomycota_007411-T1  ncbi:LTR91_000675-T1  1.00      1.00      
+ncbi:Ascomycota_007412-T1  ncbi:LTR91_000674-T1  0.87      0.87      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_010145-T1  ncbi:LTR91_012980-T1  0.97      0.98      
+ncbi:Ascomycota_010146-T1  ncbi:LTR91_012979-T1  0.92      0.94      
+ncbi:Ascomycota_010147-T1  ncbi:LTR91_012978-T1  0.86      0.92      
+ncbi:Ascomycota_010148-T1  ncbi:LTR91_012977-T1  0.97      0.98      
+ncbi:Ascomycota_010149-T1  ncbi:LTR91_012976-T1  0.99      0.99      
+ncbi:Ascomycota_007409-T1  ncbi:LTR91_008935-T1  0.54      0.55      
+ncbi:Ascomycota_007412-T1  ncbi:LTR91_008937-T1  0.50      0.53      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_010145-T1  ncbi:LTR91_016675-T1  0.98      0.99      
+ncbi:Ascomycota_010146-T1  ncbi:LTR91_016676-T1  0.95      0.96      
+ncbi:Ascomycota_010147-T1  ncbi:LTR91_016677-T1  0.87      0.93      
+ncbi:Ascomycota_010148-T1  ncbi:LTR91_016678-T1  0.97      0.99      
+ncbi:Ascomycota_010149-T1  ncbi:LTR91_016679-T1  0.99      0.99      
+ncbi:Ascomycota_007409-T1  ncbi:LTR91_003982-T1  0.49      0.50      
+ncbi:Ascomycota_007412-T1  ncbi:LTR91_003984-T1  0.50      0.52      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_010145-T1  ncbi:LTS01_004429-T1  1.00      1.00      
+ncbi:Ascomycota_010146-T1  ncbi:LTS01_004428-T1  1.00      1.00      
+ncbi:Ascomycota_010147-T1  ncbi:LTS01_004427-T1  1.00      1.00      
+ncbi:Ascomycota_010148-T1  ncbi:LTS01_004426-T1  1.00      1.00      
+ncbi:Ascomycota_010149-T1  ncbi:LTS01_004425-T1  1.00      1.00      
+ncbi:Ascomycota_007409-T1  ncbi:LTS01_011907-T1  1.00      1.00      
+ncbi:Ascomycota_007410-T1  ncbi:LTS01_011908-T1  1.00      1.00      
+ncbi:Ascomycota_007411-T1  ncbi:LTS01_011909-T1  1.00      1.00      
+ncbi:Ascomycota_007412-T1  ncbi:LTS01_011910-T1  1.00      1.00      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_010146-T1  ncbi:LTS01_005751-T1  0.95      0.96      
+ncbi:Ascomycota_010147-T1  ncbi:LTS01_005750-T1  0.87      0.93      
+ncbi:Ascomycota_010148-T1  ncbi:LTS01_005749-T1  0.97      0.99      
+ncbi:Ascomycota_010149-T1  ncbi:LTS01_005748-T1  0.99      0.99      
+ncbi:Ascomycota_007409-T1  ncbi:LTS01_006240-T1  0.54      0.55      
+ncbi:Ascomycota_007412-T1  ncbi:LTS01_006242-T1  0.50      0.53      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_010145-T1  ncbi:LTS01_006612-T1  0.97      0.98      
+ncbi:Ascomycota_010146-T1  ncbi:LTS01_006611-T1  0.92      0.94      
+ncbi:Ascomycota_010147-T1  ncbi:LTS01_006610-T1  0.86      0.92      
+ncbi:Ascomycota_010148-T1  ncbi:LTS01_006609-T1  0.97      0.98      
+ncbi:Ascomycota_010149-T1  ncbi:LTS01_006608-T1  0.99      0.99      
+ncbi:Ascomycota_007409-T1  ncbi:LTS01_016703-T1  0.49      0.50      
+ncbi:Ascomycota_007412-T1  ncbi:LTS01_016705-T1  0.58      0.62      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_010145-T1  ncbi:LTR57_003392-T1  0.97      0.98      
+ncbi:Ascomycota_010146-T1  ncbi:LTR57_003393-T1  0.93      0.95      
+ncbi:Ascomycota_010147-T1  ncbi:LTR57_003394-T1  0.86      0.92      
+ncbi:Ascomycota_010148-T1  ncbi:LTR57_003395-T1  0.97      0.98      
+ncbi:Ascomycota_010149-T1  ncbi:LTR57_003396-T1  0.99      0.99      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_010145-T1  ncbi:LTR57_011712-T1  1.00      1.00      
+ncbi:Ascomycota_010146-T1  ncbi:LTR57_011713-T1  1.00      1.00      
+ncbi:Ascomycota_010147-T1  ncbi:LTR57_011714-T1  1.00      1.00      
+ncbi:Ascomycota_010148-T1  ncbi:LTR57_011715-T1  1.00      1.00      
+ncbi:Ascomycota_010149-T1  ncbi:LTR57_011716-T1  1.00      1.00      
+ncbi:Ascomycota_007409-T1  ncbi:LTR57_011461-T1  1.00      1.00      
+ncbi:Ascomycota_007410-T1  ncbi:LTR57_011460-T1  1.00      1.00      
+ncbi:Ascomycota_007411-T1  ncbi:LTR57_011459-T1  1.00      1.00      
+ncbi:Ascomycota_007412-T1  ncbi:LTR57_011458-T1  0.87      0.87      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_010145-T1  ncbi:LTR57_017395-T1  0.98      0.99      
+ncbi:Ascomycota_010146-T1  ncbi:LTR57_017396-T1  0.95      0.96      
+ncbi:Ascomycota_010147-T1  ncbi:LTR57_017397-T1  0.87      0.93      
+ncbi:Ascomycota_010148-T1  ncbi:LTR57_017398-T1  0.97      0.99      
+ncbi:Ascomycota_010149-T1  ncbi:LTR57_017399-T1  0.99      0.99      
+ncbi:Ascomycota_007409-T1  ncbi:LTR57_012731-T1  0.44      0.45      
+ncbi:Ascomycota_007412-T1  ncbi:LTR57_012733-T1  0.50      0.52      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5199_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                     Identity  Similarity
+ncbi:Ascomycota_008170-T1  ncbi:Ascomycota_002007-T1  0.99      0.99      
+ncbi:Ascomycota_008171-T1  ncbi:Ascomycota_002008-T1  0.95      0.98      
+ncbi:Ascomycota_008172-T1  ncbi:Ascomycota_002009-T1  0.84      0.91      
+ncbi:Ascomycota_008173-T1  ncbi:Ascomycota_002010-T1  0.93      0.95      
+ncbi:Ascomycota_018316-T1  ncbi:Ascomycota_006604-T1  0.89      0.91      
+ncbi:Ascomycota_018317-T1  ncbi:Ascomycota_006605-T1  0.85      0.88      
+ncbi:Ascomycota_018318-T1  ncbi:Ascomycota_006606-T1  0.57      0.59      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_008170-T1  ncbi:LTR91_008184-T1  0.99      0.99      
+ncbi:Ascomycota_008171-T1  ncbi:LTR91_008183-T1  0.97      0.99      
+ncbi:Ascomycota_008172-T1  ncbi:LTR91_008182-T1  0.87      0.93      
+ncbi:Ascomycota_008173-T1  ncbi:LTR91_008181-T1  0.95      0.96      
+ncbi:Ascomycota_018316-T1  ncbi:LTR91_000674-T1  0.52      0.55      
+ncbi:Ascomycota_018318-T1  ncbi:LTR91_000677-T1  0.54      0.55      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_008170-T1  ncbi:LTR91_012976-T1  0.99      0.99      
+ncbi:Ascomycota_008171-T1  ncbi:LTR91_012977-T1  0.95      0.98      
+ncbi:Ascomycota_008172-T1  ncbi:LTR91_012978-T1  0.84      0.91      
+ncbi:Ascomycota_008173-T1  ncbi:LTR91_012979-T1  0.93      0.95      
+ncbi:Ascomycota_018316-T1  ncbi:LTR91_008937-T1  1.00      1.00      
+ncbi:Ascomycota_018317-T1  ncbi:LTR91_008936-T1  1.00      1.00      
+ncbi:Ascomycota_018318-T1  ncbi:LTR91_008935-T1  1.00      1.00      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_008170-T1  ncbi:LTR91_016679-T1  1.00      1.00      
+ncbi:Ascomycota_008171-T1  ncbi:LTR91_016678-T1  1.00      1.00      
+ncbi:Ascomycota_008172-T1  ncbi:LTR91_016677-T1  1.00      1.00      
+ncbi:Ascomycota_008173-T1  ncbi:LTR91_016676-T1  1.00      1.00      
+ncbi:Ascomycota_018316-T1  ncbi:LTR91_003984-T1  0.89      0.91      
+ncbi:Ascomycota_018317-T1  ncbi:LTR91_003983-T1  0.85      0.88      
+ncbi:Ascomycota_018318-T1  ncbi:LTR91_003982-T1  0.78      0.82      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_008170-T1  ncbi:LTS01_004425-T1  0.99      0.99      
+ncbi:Ascomycota_008171-T1  ncbi:LTS01_004426-T1  0.97      0.99      
+ncbi:Ascomycota_008172-T1  ncbi:LTS01_004427-T1  0.87      0.93      
+ncbi:Ascomycota_008173-T1  ncbi:LTS01_004428-T1  0.95      0.96      
+ncbi:Ascomycota_018316-T1  ncbi:LTS01_011910-T1  0.50      0.53      
+ncbi:Ascomycota_018318-T1  ncbi:LTS01_011907-T1  0.54      0.55      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_008169-T1  ncbi:LTS01_005747-T1  1.00      1.00      
+ncbi:Ascomycota_008170-T1  ncbi:LTS01_005748-T1  1.00      1.00      
+ncbi:Ascomycota_008171-T1  ncbi:LTS01_005749-T1  1.00      1.00      
+ncbi:Ascomycota_008172-T1  ncbi:LTS01_005750-T1  1.00      1.00      
+ncbi:Ascomycota_008173-T1  ncbi:LTS01_005751-T1  1.00      1.00      
+ncbi:Ascomycota_018316-T1  ncbi:LTS01_006242-T1  1.00      1.00      
+ncbi:Ascomycota_018317-T1  ncbi:LTS01_006241-T1  1.00      1.00      
+ncbi:Ascomycota_018318-T1  ncbi:LTS01_006240-T1  1.00      1.00      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_008170-T1  ncbi:LTS01_006608-T1  0.99      0.99      
+ncbi:Ascomycota_008171-T1  ncbi:LTS01_006609-T1  0.95      0.98      
+ncbi:Ascomycota_008172-T1  ncbi:LTS01_006610-T1  0.84      0.91      
+ncbi:Ascomycota_008173-T1  ncbi:LTS01_006611-T1  0.93      0.95      
+ncbi:Ascomycota_018316-T1  ncbi:LTS01_016705-T1  0.76      0.78      
+ncbi:Ascomycota_018317-T1  ncbi:LTS01_016704-T1  0.85      0.88      
+ncbi:Ascomycota_018318-T1  ncbi:LTS01_016703-T1  0.78      0.82      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_008170-T1  ncbi:LTR57_003396-T1  0.98      0.98      
+ncbi:Ascomycota_008171-T1  ncbi:LTR57_003395-T1  0.95      0.98      
+ncbi:Ascomycota_008172-T1  ncbi:LTR57_003394-T1  0.84      0.91      
+ncbi:Ascomycota_008173-T1  ncbi:LTR57_003393-T1  0.94      0.96      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_008170-T1  ncbi:LTR57_011716-T1  0.99      0.99      
+ncbi:Ascomycota_008171-T1  ncbi:LTR57_011715-T1  0.97      0.99      
+ncbi:Ascomycota_008172-T1  ncbi:LTR57_011714-T1  0.87      0.93      
+ncbi:Ascomycota_008173-T1  ncbi:LTR57_011713-T1  0.95      0.96      
+ncbi:Ascomycota_018316-T1  ncbi:LTR57_011458-T1  0.52      0.55      
+ncbi:Ascomycota_018318-T1  ncbi:LTR57_011461-T1  0.54      0.55      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_008170-T1  ncbi:LTR57_017399-T1  1.00      1.00      
+ncbi:Ascomycota_008171-T1  ncbi:LTR57_017398-T1  1.00      1.00      
+ncbi:Ascomycota_008172-T1  ncbi:LTR57_017397-T1  1.00      1.00      
+ncbi:Ascomycota_008173-T1  ncbi:LTR57_017396-T1  1.00      1.00      
+ncbi:Ascomycota_018316-T1  ncbi:LTR57_012733-T1  0.89      0.91      
+ncbi:Ascomycota_018317-T1  ncbi:LTR57_012732-T1  0.85      0.89      
+ncbi:Ascomycota_018318-T1  ncbi:LTR57_012731-T1  0.70      0.73      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_002007-T1  ncbi:LTR91_008184-T1  0.99      0.99      
+ncbi:Ascomycota_002008-T1  ncbi:LTR91_008183-T1  0.97      0.98      
+ncbi:Ascomycota_002009-T1  ncbi:LTR91_008182-T1  0.86      0.92      
+ncbi:Ascomycota_002010-T1  ncbi:LTR91_008181-T1  0.92      0.94      
+ncbi:Ascomycota_002011-T1  ncbi:LTR91_008180-T1  0.97      0.98      
+ncbi:Ascomycota_006603-T1  ncbi:LTR91_000673-T1  0.93      0.95      
+ncbi:Ascomycota_006604-T1  ncbi:LTR91_000674-T1  0.52      0.56      
+ncbi:Ascomycota_006606-T1  ncbi:LTR91_000677-T1  0.35      0.35      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_002007-T1  ncbi:LTR91_012976-T1  1.00      1.00      
+ncbi:Ascomycota_002008-T1  ncbi:LTR91_012977-T1  1.00      1.00      
+ncbi:Ascomycota_002009-T1  ncbi:LTR91_012978-T1  1.00      1.00      
+ncbi:Ascomycota_002010-T1  ncbi:LTR91_012979-T1  1.00      1.00      
+ncbi:Ascomycota_002011-T1  ncbi:LTR91_012980-T1  1.00      1.00      
+ncbi:Ascomycota_006604-T1  ncbi:LTR91_008937-T1  0.88      0.91      
+ncbi:Ascomycota_006605-T1  ncbi:LTR91_008936-T1  0.85      0.88      
+ncbi:Ascomycota_006606-T1  ncbi:LTR91_008935-T1  0.57      0.59      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_002007-T1  ncbi:LTR91_016679-T1  0.99      0.99      
+ncbi:Ascomycota_002008-T1  ncbi:LTR91_016678-T1  0.95      0.98      
+ncbi:Ascomycota_002009-T1  ncbi:LTR91_016677-T1  0.84      0.91      
+ncbi:Ascomycota_002010-T1  ncbi:LTR91_016676-T1  0.93      0.95      
+ncbi:Ascomycota_002011-T1  ncbi:LTR91_016675-T1  0.96      0.98      
+ncbi:Ascomycota_006604-T1  ncbi:LTR91_003984-T1  1.00      1.00      
+ncbi:Ascomycota_006605-T1  ncbi:LTR91_003983-T1  1.00      1.00      
+ncbi:Ascomycota_006606-T1  ncbi:LTR91_003982-T1  0.71      0.71      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_002007-T1  ncbi:LTS01_004425-T1  0.99      0.99      
+ncbi:Ascomycota_002008-T1  ncbi:LTS01_004426-T1  0.97      0.98      
+ncbi:Ascomycota_002009-T1  ncbi:LTS01_004427-T1  0.86      0.92      
+ncbi:Ascomycota_002010-T1  ncbi:LTS01_004428-T1  0.92      0.94      
+ncbi:Ascomycota_002011-T1  ncbi:LTS01_004429-T1  0.97      0.98      
+ncbi:Ascomycota_006604-T1  ncbi:LTS01_011910-T1  0.50      0.52      
+ncbi:Ascomycota_006606-T1  ncbi:LTS01_011907-T1  0.35      0.35      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_002007-T1  ncbi:LTS01_005748-T1  0.99      0.99      
+ncbi:Ascomycota_002008-T1  ncbi:LTS01_005749-T1  0.95      0.98      
+ncbi:Ascomycota_002009-T1  ncbi:LTS01_005750-T1  0.84      0.91      
+ncbi:Ascomycota_002010-T1  ncbi:LTS01_005751-T1  0.93      0.95      
+ncbi:Ascomycota_006604-T1  ncbi:LTS01_006242-T1  0.89      0.91      
+ncbi:Ascomycota_006605-T1  ncbi:LTS01_006241-T1  0.85      0.88      
+ncbi:Ascomycota_006606-T1  ncbi:LTS01_006240-T1  0.57      0.59      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_002007-T1  ncbi:LTS01_006608-T1  1.00      1.00      
+ncbi:Ascomycota_002008-T1  ncbi:LTS01_006609-T1  1.00      1.00      
+ncbi:Ascomycota_002009-T1  ncbi:LTS01_006610-T1  1.00      1.00      
+ncbi:Ascomycota_002010-T1  ncbi:LTS01_006611-T1  1.00      1.00      
+ncbi:Ascomycota_002011-T1  ncbi:LTS01_006612-T1  1.00      1.00      
+ncbi:Ascomycota_006604-T1  ncbi:LTS01_016705-T1  0.84      0.85      
+ncbi:Ascomycota_006605-T1  ncbi:LTS01_016704-T1  1.00      1.00      
+ncbi:Ascomycota_006606-T1  ncbi:LTS01_016703-T1  0.71      0.71      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_002007-T1  ncbi:LTR57_003396-T1  0.99      0.99      
+ncbi:Ascomycota_002008-T1  ncbi:LTR57_003395-T1  1.00      1.00      
+ncbi:Ascomycota_002009-T1  ncbi:LTR57_003394-T1  1.00      1.00      
+ncbi:Ascomycota_002010-T1  ncbi:LTR57_003393-T1  0.99      0.99      
+ncbi:Ascomycota_002011-T1  ncbi:LTR57_003392-T1  1.00      1.00      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_002007-T1  ncbi:LTR57_011716-T1  0.99      0.99      
+ncbi:Ascomycota_002008-T1  ncbi:LTR57_011715-T1  0.97      0.98      
+ncbi:Ascomycota_002009-T1  ncbi:LTR57_011714-T1  0.86      0.92      
+ncbi:Ascomycota_002010-T1  ncbi:LTR57_011713-T1  0.92      0.94      
+ncbi:Ascomycota_002011-T1  ncbi:LTR57_011712-T1  0.97      0.98      
+ncbi:Ascomycota_006603-T1  ncbi:LTR57_011457-T1  0.93      0.95      
+ncbi:Ascomycota_006604-T1  ncbi:LTR57_011458-T1  0.52      0.56      
+ncbi:Ascomycota_006606-T1  ncbi:LTR57_011461-T1  0.35      0.35      
+
+CCFEE_5199_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                      Target                Identity  Similarity
+ncbi:Ascomycota_002007-T1  ncbi:LTR57_017399-T1  0.99      0.99      
+ncbi:Ascomycota_002008-T1  ncbi:LTR57_017398-T1  0.95      0.98      
+ncbi:Ascomycota_002009-T1  ncbi:LTR57_017397-T1  0.84      0.91      
+ncbi:Ascomycota_002010-T1  ncbi:LTR57_017396-T1  0.93      0.95      
+ncbi:Ascomycota_002011-T1  ncbi:LTR57_017395-T1  0.96      0.98      
+ncbi:Ascomycota_006604-T1  ncbi:LTR57_012733-T1  1.00      1.00      
+ncbi:Ascomycota_006605-T1  ncbi:LTR57_012732-T1  1.00      1.00      
+ncbi:Ascomycota_006606-T1  ncbi:LTR57_012731-T1  0.78      0.78      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_008180-T1  ncbi:LTR91_012980-T1  0.97      0.98      
+ncbi:LTR91_008181-T1  ncbi:LTR91_012979-T1  0.92      0.94      
+ncbi:LTR91_008182-T1  ncbi:LTR91_012978-T1  0.86      0.92      
+ncbi:LTR91_008183-T1  ncbi:LTR91_012977-T1  0.97      0.98      
+ncbi:LTR91_008184-T1  ncbi:LTR91_012976-T1  0.99      0.99      
+ncbi:LTR91_000674-T1  ncbi:LTR91_008937-T1  0.51      0.55      
+ncbi:LTR91_000677-T1  ncbi:LTR91_008935-T1  0.54      0.55      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_008180-T1  ncbi:LTR91_016675-T1  0.98      0.99      
+ncbi:LTR91_008181-T1  ncbi:LTR91_016676-T1  0.95      0.96      
+ncbi:LTR91_008182-T1  ncbi:LTR91_016677-T1  0.87      0.93      
+ncbi:LTR91_008183-T1  ncbi:LTR91_016678-T1  0.97      0.99      
+ncbi:LTR91_008184-T1  ncbi:LTR91_016679-T1  0.99      0.99      
+ncbi:LTR91_000674-T1  ncbi:LTR91_003984-T1  0.52      0.56      
+ncbi:LTR91_000677-T1  ncbi:LTR91_003982-T1  0.49      0.50      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_008180-T1  ncbi:LTS01_004429-T1  1.00      1.00      
+ncbi:LTR91_008181-T1  ncbi:LTS01_004428-T1  1.00      1.00      
+ncbi:LTR91_008182-T1  ncbi:LTS01_004427-T1  1.00      1.00      
+ncbi:LTR91_008183-T1  ncbi:LTS01_004426-T1  1.00      1.00      
+ncbi:LTR91_008184-T1  ncbi:LTS01_004425-T1  1.00      1.00      
+ncbi:LTR91_000674-T1  ncbi:LTS01_011910-T1  0.87      0.87      
+ncbi:LTR91_000675-T1  ncbi:LTS01_011909-T1  1.00      1.00      
+ncbi:LTR91_000676-T1  ncbi:LTS01_011908-T1  1.00      1.00      
+ncbi:LTR91_000677-T1  ncbi:LTS01_011907-T1  1.00      1.00      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_008181-T1  ncbi:LTS01_005751-T1  0.95      0.96      
+ncbi:LTR91_008182-T1  ncbi:LTS01_005750-T1  0.87      0.93      
+ncbi:LTR91_008183-T1  ncbi:LTS01_005749-T1  0.97      0.99      
+ncbi:LTR91_008184-T1  ncbi:LTS01_005748-T1  0.99      0.99      
+ncbi:LTR91_000674-T1  ncbi:LTS01_006242-T1  0.52      0.55      
+ncbi:LTR91_000677-T1  ncbi:LTS01_006240-T1  0.54      0.55      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_008180-T1  ncbi:LTS01_006612-T1  0.97      0.98      
+ncbi:LTR91_008181-T1  ncbi:LTS01_006611-T1  0.92      0.94      
+ncbi:LTR91_008182-T1  ncbi:LTS01_006610-T1  0.86      0.92      
+ncbi:LTR91_008183-T1  ncbi:LTS01_006609-T1  0.97      0.98      
+ncbi:LTR91_008184-T1  ncbi:LTS01_006608-T1  0.99      0.99      
+ncbi:LTR91_000674-T1  ncbi:LTS01_016705-T1  0.59      0.64      
+ncbi:LTR91_000677-T1  ncbi:LTS01_016703-T1  0.49      0.50      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_008180-T1  ncbi:LTR57_003392-T1  0.97      0.98      
+ncbi:LTR91_008181-T1  ncbi:LTR57_003393-T1  0.93      0.95      
+ncbi:LTR91_008182-T1  ncbi:LTR57_003394-T1  0.86      0.92      
+ncbi:LTR91_008183-T1  ncbi:LTR57_003395-T1  0.97      0.98      
+ncbi:LTR91_008184-T1  ncbi:LTR57_003396-T1  0.99      0.99      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_008180-T1  ncbi:LTR57_011712-T1  1.00      1.00      
+ncbi:LTR91_008181-T1  ncbi:LTR57_011713-T1  1.00      1.00      
+ncbi:LTR91_008182-T1  ncbi:LTR57_011714-T1  1.00      1.00      
+ncbi:LTR91_008183-T1  ncbi:LTR57_011715-T1  1.00      1.00      
+ncbi:LTR91_008184-T1  ncbi:LTR57_011716-T1  1.00      1.00      
+ncbi:LTR91_000673-T1  ncbi:LTR57_011457-T1  1.00      1.00      
+ncbi:LTR91_000674-T1  ncbi:LTR57_011458-T1  1.00      1.00      
+ncbi:LTR91_000675-T1  ncbi:LTR57_011459-T1  1.00      1.00      
+ncbi:LTR91_000676-T1  ncbi:LTR57_011460-T1  1.00      1.00      
+ncbi:LTR91_000677-T1  ncbi:LTR57_011461-T1  1.00      1.00      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_008180-T1  ncbi:LTR57_017395-T1  0.98      0.99      
+ncbi:LTR91_008181-T1  ncbi:LTR57_017396-T1  0.95      0.96      
+ncbi:LTR91_008182-T1  ncbi:LTR57_017397-T1  0.87      0.93      
+ncbi:LTR91_008183-T1  ncbi:LTR57_017398-T1  0.97      0.99      
+ncbi:LTR91_008184-T1  ncbi:LTR57_017399-T1  0.99      0.99      
+ncbi:LTR91_000674-T1  ncbi:LTR57_012733-T1  0.52      0.56      
+ncbi:LTR91_000677-T1  ncbi:LTR57_012731-T1  0.44      0.45      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5200_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_012976-T1  ncbi:LTR91_016679-T1  0.99      0.99      
+ncbi:LTR91_012977-T1  ncbi:LTR91_016678-T1  0.95      0.98      
+ncbi:LTR91_012978-T1  ncbi:LTR91_016677-T1  0.84      0.91      
+ncbi:LTR91_012979-T1  ncbi:LTR91_016676-T1  0.93      0.95      
+ncbi:LTR91_012980-T1  ncbi:LTR91_016675-T1  0.96      0.98      
+ncbi:LTR91_008935-T1  ncbi:LTR91_003982-T1  0.78      0.82      
+ncbi:LTR91_008936-T1  ncbi:LTR91_003983-T1  0.85      0.88      
+ncbi:LTR91_008937-T1  ncbi:LTR91_003984-T1  0.88      0.91      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_012976-T1  ncbi:LTS01_004425-T1  0.99      0.99      
+ncbi:LTR91_012977-T1  ncbi:LTS01_004426-T1  0.97      0.98      
+ncbi:LTR91_012978-T1  ncbi:LTS01_004427-T1  0.86      0.92      
+ncbi:LTR91_012979-T1  ncbi:LTS01_004428-T1  0.92      0.94      
+ncbi:LTR91_012980-T1  ncbi:LTS01_004429-T1  0.97      0.98      
+ncbi:LTR91_008935-T1  ncbi:LTS01_011907-T1  0.54      0.55      
+ncbi:LTR91_008937-T1  ncbi:LTS01_011910-T1  0.50      0.53      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_012976-T1  ncbi:LTS01_005748-T1  0.99      0.99      
+ncbi:LTR91_012977-T1  ncbi:LTS01_005749-T1  0.95      0.98      
+ncbi:LTR91_012978-T1  ncbi:LTS01_005750-T1  0.84      0.91      
+ncbi:LTR91_012979-T1  ncbi:LTS01_005751-T1  0.93      0.95      
+ncbi:LTR91_008935-T1  ncbi:LTS01_006240-T1  1.00      1.00      
+ncbi:LTR91_008936-T1  ncbi:LTS01_006241-T1  1.00      1.00      
+ncbi:LTR91_008937-T1  ncbi:LTS01_006242-T1  1.00      1.00      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_012976-T1  ncbi:LTS01_006608-T1  1.00      1.00      
+ncbi:LTR91_012977-T1  ncbi:LTS01_006609-T1  1.00      1.00      
+ncbi:LTR91_012978-T1  ncbi:LTS01_006610-T1  1.00      1.00      
+ncbi:LTR91_012979-T1  ncbi:LTS01_006611-T1  1.00      1.00      
+ncbi:LTR91_012980-T1  ncbi:LTS01_006612-T1  1.00      1.00      
+ncbi:LTR91_008935-T1  ncbi:LTS01_016703-T1  0.78      0.82      
+ncbi:LTR91_008936-T1  ncbi:LTS01_016704-T1  0.85      0.88      
+ncbi:LTR91_008937-T1  ncbi:LTS01_016705-T1  0.76      0.78      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_012976-T1  ncbi:LTR57_003396-T1  0.99      0.99      
+ncbi:LTR91_012977-T1  ncbi:LTR57_003395-T1  1.00      1.00      
+ncbi:LTR91_012978-T1  ncbi:LTR57_003394-T1  1.00      1.00      
+ncbi:LTR91_012979-T1  ncbi:LTR57_003393-T1  0.99      0.99      
+ncbi:LTR91_012980-T1  ncbi:LTR57_003392-T1  1.00      1.00      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_012976-T1  ncbi:LTR57_011716-T1  0.99      0.99      
+ncbi:LTR91_012977-T1  ncbi:LTR57_011715-T1  0.97      0.98      
+ncbi:LTR91_012978-T1  ncbi:LTR57_011714-T1  0.86      0.92      
+ncbi:LTR91_012979-T1  ncbi:LTR57_011713-T1  0.92      0.94      
+ncbi:LTR91_012980-T1  ncbi:LTR57_011712-T1  0.97      0.98      
+ncbi:LTR91_008935-T1  ncbi:LTR57_011461-T1  0.54      0.55      
+ncbi:LTR91_008937-T1  ncbi:LTR57_011458-T1  0.51      0.55      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_012976-T1  ncbi:LTR57_017399-T1  0.99      0.99      
+ncbi:LTR91_012977-T1  ncbi:LTR57_017398-T1  0.95      0.98      
+ncbi:LTR91_012978-T1  ncbi:LTR57_017397-T1  0.84      0.91      
+ncbi:LTR91_012979-T1  ncbi:LTR57_017396-T1  0.93      0.95      
+ncbi:LTR91_012980-T1  ncbi:LTR57_017395-T1  0.96      0.98      
+ncbi:LTR91_008935-T1  ncbi:LTR57_012731-T1  0.70      0.73      
+ncbi:LTR91_008936-T1  ncbi:LTR57_012732-T1  0.85      0.89      
+ncbi:LTR91_008937-T1  ncbi:LTR57_012733-T1  0.88      0.91      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_016675-T1  ncbi:LTS01_004429-T1  0.98      0.99      
+ncbi:LTR91_016676-T1  ncbi:LTS01_004428-T1  0.95      0.96      
+ncbi:LTR91_016677-T1  ncbi:LTS01_004427-T1  0.87      0.93      
+ncbi:LTR91_016678-T1  ncbi:LTS01_004426-T1  0.97      0.99      
+ncbi:LTR91_016679-T1  ncbi:LTS01_004425-T1  0.99      0.99      
+ncbi:LTR91_003982-T1  ncbi:LTS01_011907-T1  0.49      0.50      
+ncbi:LTR91_003984-T1  ncbi:LTS01_011910-T1  0.50      0.52      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_016676-T1  ncbi:LTS01_005751-T1  1.00      1.00      
+ncbi:LTR91_016677-T1  ncbi:LTS01_005750-T1  1.00      1.00      
+ncbi:LTR91_016678-T1  ncbi:LTS01_005749-T1  1.00      1.00      
+ncbi:LTR91_016679-T1  ncbi:LTS01_005748-T1  1.00      1.00      
+ncbi:LTR91_003982-T1  ncbi:LTS01_006240-T1  0.78      0.82      
+ncbi:LTR91_003983-T1  ncbi:LTS01_006241-T1  0.85      0.88      
+ncbi:LTR91_003984-T1  ncbi:LTS01_006242-T1  0.89      0.91      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_016675-T1  ncbi:LTS01_006612-T1  0.96      0.98      
+ncbi:LTR91_016676-T1  ncbi:LTS01_006611-T1  0.93      0.95      
+ncbi:LTR91_016677-T1  ncbi:LTS01_006610-T1  0.84      0.91      
+ncbi:LTR91_016678-T1  ncbi:LTS01_006609-T1  0.95      0.98      
+ncbi:LTR91_016679-T1  ncbi:LTS01_006608-T1  0.99      0.99      
+ncbi:LTR91_003982-T1  ncbi:LTS01_016703-T1  1.00      1.00      
+ncbi:LTR91_003983-T1  ncbi:LTS01_016704-T1  1.00      1.00      
+ncbi:LTR91_003984-T1  ncbi:LTS01_016705-T1  0.84      0.85      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_016675-T1  ncbi:LTR57_003392-T1  0.96      0.98      
+ncbi:LTR91_016676-T1  ncbi:LTR57_003393-T1  0.94      0.96      
+ncbi:LTR91_016677-T1  ncbi:LTR57_003394-T1  0.84      0.91      
+ncbi:LTR91_016678-T1  ncbi:LTR57_003395-T1  0.95      0.98      
+ncbi:LTR91_016679-T1  ncbi:LTR57_003396-T1  0.98      0.98      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_016675-T1  ncbi:LTR57_011712-T1  0.98      0.99      
+ncbi:LTR91_016676-T1  ncbi:LTR57_011713-T1  0.95      0.96      
+ncbi:LTR91_016677-T1  ncbi:LTR57_011714-T1  0.87      0.93      
+ncbi:LTR91_016678-T1  ncbi:LTR57_011715-T1  0.97      0.99      
+ncbi:LTR91_016679-T1  ncbi:LTR57_011716-T1  0.99      0.99      
+ncbi:LTR91_003982-T1  ncbi:LTR57_011461-T1  0.49      0.50      
+ncbi:LTR91_003984-T1  ncbi:LTR57_011458-T1  0.52      0.56      
+
+CCFEE_5200_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR91_016675-T1  ncbi:LTR57_017395-T1  1.00      1.00      
+ncbi:LTR91_016676-T1  ncbi:LTR57_017396-T1  1.00      1.00      
+ncbi:LTR91_016677-T1  ncbi:LTR57_017397-T1  1.00      1.00      
+ncbi:LTR91_016678-T1  ncbi:LTR57_017398-T1  1.00      1.00      
+ncbi:LTR91_016679-T1  ncbi:LTR57_017399-T1  1.00      1.00      
+ncbi:LTR91_003982-T1  ncbi:LTR57_012731-T1  0.89      0.89      
+ncbi:LTR91_003983-T1  ncbi:LTR57_012732-T1  1.00      1.00      
+ncbi:LTR91_003984-T1  ncbi:LTR57_012733-T1  1.00      1.00      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_004425-T1  ncbi:LTS01_005748-T1  0.99      0.99      
+ncbi:LTS01_004426-T1  ncbi:LTS01_005749-T1  0.97      0.99      
+ncbi:LTS01_004427-T1  ncbi:LTS01_005750-T1  0.87      0.93      
+ncbi:LTS01_004428-T1  ncbi:LTS01_005751-T1  0.95      0.96      
+ncbi:LTS01_011907-T1  ncbi:LTS01_006240-T1  0.54      0.55      
+ncbi:LTS01_011910-T1  ncbi:LTS01_006242-T1  0.50      0.53      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_004425-T1  ncbi:LTS01_006608-T1  0.99      0.99      
+ncbi:LTS01_004426-T1  ncbi:LTS01_006609-T1  0.97      0.98      
+ncbi:LTS01_004427-T1  ncbi:LTS01_006610-T1  0.86      0.92      
+ncbi:LTS01_004428-T1  ncbi:LTS01_006611-T1  0.92      0.94      
+ncbi:LTS01_004429-T1  ncbi:LTS01_006612-T1  0.97      0.98      
+ncbi:LTS01_011907-T1  ncbi:LTS01_016703-T1  0.49      0.50      
+ncbi:LTS01_011910-T1  ncbi:LTS01_016705-T1  0.58      0.62      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_004425-T1  ncbi:LTR57_003396-T1  0.99      0.99      
+ncbi:LTS01_004426-T1  ncbi:LTR57_003395-T1  0.97      0.98      
+ncbi:LTS01_004427-T1  ncbi:LTR57_003394-T1  0.86      0.92      
+ncbi:LTS01_004428-T1  ncbi:LTR57_003393-T1  0.93      0.95      
+ncbi:LTS01_004429-T1  ncbi:LTR57_003392-T1  0.97      0.98      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_004425-T1  ncbi:LTR57_011716-T1  1.00      1.00      
+ncbi:LTS01_004426-T1  ncbi:LTR57_011715-T1  1.00      1.00      
+ncbi:LTS01_004427-T1  ncbi:LTR57_011714-T1  1.00      1.00      
+ncbi:LTS01_004428-T1  ncbi:LTR57_011713-T1  1.00      1.00      
+ncbi:LTS01_004429-T1  ncbi:LTR57_011712-T1  1.00      1.00      
+ncbi:LTS01_011907-T1  ncbi:LTR57_011461-T1  1.00      1.00      
+ncbi:LTS01_011908-T1  ncbi:LTR57_011460-T1  1.00      1.00      
+ncbi:LTS01_011909-T1  ncbi:LTR57_011459-T1  1.00      1.00      
+ncbi:LTS01_011910-T1  ncbi:LTR57_011458-T1  0.87      0.87      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_004425-T1  ncbi:LTR57_017399-T1  0.99      0.99      
+ncbi:LTS01_004426-T1  ncbi:LTR57_017398-T1  0.97      0.99      
+ncbi:LTS01_004427-T1  ncbi:LTR57_017397-T1  0.87      0.93      
+ncbi:LTS01_004428-T1  ncbi:LTR57_017396-T1  0.95      0.96      
+ncbi:LTS01_004429-T1  ncbi:LTR57_017395-T1  0.98      0.99      
+ncbi:LTS01_011907-T1  ncbi:LTR57_012731-T1  0.44      0.45      
+ncbi:LTS01_011910-T1  ncbi:LTR57_012733-T1  0.50      0.52      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5273_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_005748-T1  ncbi:LTS01_006608-T1  0.99      0.99      
+ncbi:LTS01_005749-T1  ncbi:LTS01_006609-T1  0.95      0.98      
+ncbi:LTS01_005750-T1  ncbi:LTS01_006610-T1  0.84      0.91      
+ncbi:LTS01_005751-T1  ncbi:LTS01_006611-T1  0.93      0.95      
+ncbi:LTS01_006240-T1  ncbi:LTS01_016703-T1  0.78      0.82      
+ncbi:LTS01_006241-T1  ncbi:LTS01_016704-T1  0.85      0.88      
+ncbi:LTS01_006242-T1  ncbi:LTS01_016705-T1  0.76      0.78      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_005748-T1  ncbi:LTR57_003396-T1  0.98      0.98      
+ncbi:LTS01_005749-T1  ncbi:LTR57_003395-T1  0.95      0.98      
+ncbi:LTS01_005750-T1  ncbi:LTR57_003394-T1  0.84      0.91      
+ncbi:LTS01_005751-T1  ncbi:LTR57_003393-T1  0.94      0.96      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_005748-T1  ncbi:LTR57_011716-T1  0.99      0.99      
+ncbi:LTS01_005749-T1  ncbi:LTR57_011715-T1  0.97      0.99      
+ncbi:LTS01_005750-T1  ncbi:LTR57_011714-T1  0.87      0.93      
+ncbi:LTS01_005751-T1  ncbi:LTR57_011713-T1  0.95      0.96      
+ncbi:LTS01_006240-T1  ncbi:LTR57_011461-T1  0.54      0.55      
+ncbi:LTS01_006242-T1  ncbi:LTR57_011458-T1  0.52      0.55      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_005748-T1  ncbi:LTR57_017399-T1  1.00      1.00      
+ncbi:LTS01_005749-T1  ncbi:LTR57_017398-T1  1.00      1.00      
+ncbi:LTS01_005750-T1  ncbi:LTR57_017397-T1  1.00      1.00      
+ncbi:LTS01_005751-T1  ncbi:LTR57_017396-T1  1.00      1.00      
+ncbi:LTS01_006240-T1  ncbi:LTR57_012731-T1  0.70      0.73      
+ncbi:LTS01_006241-T1  ncbi:LTR57_012732-T1  0.85      0.89      
+ncbi:LTS01_006242-T1  ncbi:LTR57_012733-T1  0.89      0.91      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_006608-T1  ncbi:LTR57_003396-T1  0.99      0.99      
+ncbi:LTS01_006609-T1  ncbi:LTR57_003395-T1  1.00      1.00      
+ncbi:LTS01_006610-T1  ncbi:LTR57_003394-T1  1.00      1.00      
+ncbi:LTS01_006611-T1  ncbi:LTR57_003393-T1  0.99      0.99      
+ncbi:LTS01_006612-T1  ncbi:LTR57_003392-T1  1.00      1.00      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_006608-T1  ncbi:LTR57_011716-T1  0.99      0.99      
+ncbi:LTS01_006609-T1  ncbi:LTR57_011715-T1  0.97      0.98      
+ncbi:LTS01_006610-T1  ncbi:LTR57_011714-T1  0.86      0.92      
+ncbi:LTS01_006611-T1  ncbi:LTR57_011713-T1  0.92      0.94      
+ncbi:LTS01_006612-T1  ncbi:LTR57_011712-T1  0.97      0.98      
+ncbi:LTS01_016703-T1  ncbi:LTR57_011461-T1  0.49      0.50      
+ncbi:LTS01_016705-T1  ncbi:LTR57_011458-T1  0.59      0.64      
+
+CCFEE_5273_Friedmanniomyces_endolithicus_MAT3 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTS01_006608-T1  ncbi:LTR57_017399-T1  0.99      0.99      
+ncbi:LTS01_006609-T1  ncbi:LTR57_017398-T1  0.95      0.98      
+ncbi:LTS01_006610-T1  ncbi:LTR57_017397-T1  0.84      0.91      
+ncbi:LTS01_006611-T1  ncbi:LTR57_017396-T1  0.93      0.95      
+ncbi:LTS01_006612-T1  ncbi:LTR57_017395-T1  0.96      0.98      
+ncbi:LTS01_016703-T1  ncbi:LTR57_012731-T1  0.89      0.89      
+ncbi:LTS01_016704-T1  ncbi:LTR57_012732-T1  1.00      1.00      
+ncbi:LTS01_016705-T1  ncbi:LTR57_012733-T1  0.84      0.85      
+
+CCFEE_5277_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT2
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR57_003392-T1  ncbi:LTR57_011712-T1  0.97      0.98      
+ncbi:LTR57_003393-T1  ncbi:LTR57_011713-T1  0.93      0.95      
+ncbi:LTR57_003394-T1  ncbi:LTR57_011714-T1  0.86      0.92      
+ncbi:LTR57_003395-T1  ncbi:LTR57_011715-T1  0.97      0.98      
+ncbi:LTR57_003396-T1  ncbi:LTR57_011716-T1  0.99      0.99      
+
+CCFEE_5277_Friedmanniomyces_endolithicus_MAT1 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR57_003392-T1  ncbi:LTR57_017395-T1  0.96      0.98      
+ncbi:LTR57_003393-T1  ncbi:LTR57_017396-T1  0.94      0.96      
+ncbi:LTR57_003394-T1  ncbi:LTR57_017397-T1  0.84      0.91      
+ncbi:LTR57_003395-T1  ncbi:LTR57_017398-T1  0.95      0.98      
+ncbi:LTR57_003396-T1  ncbi:LTR57_017399-T1  0.98      0.98      
+
+CCFEE_5277_Friedmanniomyces_endolithicus_MAT2 vs CCFEE_5277_Friedmanniomyces_endolithicus_MAT3
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR57_011712-T1  ncbi:LTR57_017395-T1  0.98      0.99      
+ncbi:LTR57_011713-T1  ncbi:LTR57_017396-T1  0.95      0.96      
+ncbi:LTR57_011714-T1  ncbi:LTR57_017397-T1  0.87      0.93      
+ncbi:LTR57_011715-T1  ncbi:LTR57_017398-T1  0.97      0.99      
+ncbi:LTR57_011716-T1  ncbi:LTR57_017399-T1  0.99      0.99      
+ncbi:LTR57_011458-T1  ncbi:LTR57_012733-T1  0.52      0.56      
+ncbi:LTR57_011461-T1  ncbi:LTR57_012731-T1  0.44      0.45      

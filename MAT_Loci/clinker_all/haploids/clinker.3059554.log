@@ -1,0 +1,63 @@
+r05
+[22:43:44] INFO - Starting clinker
+[22:43:44] INFO - Parsing files:
+[22:43:44] INFO -   CCFEE_5001_Friedmanniomyces_endolithicus_MAT.gbk
+[22:43:44] INFO -   CCFEE_5486_Friedmanniomyces_endolithicus_MAT.gbk
+[22:43:44] INFO -   CCFEE_6074_Friedmanniomyces_endolithicus_MAT.gbk
+[22:43:44] INFO -   CCFEE_6074_Friedmanniomyces_endolithicus_MATv1.gbk
+[22:43:44] INFO - Starting cluster alignments
+[22:43:45] INFO - CCFEE_5001_Friedmanniomyces_endolithicus_MAT vs CCFEE_5486_Friedmanniomyces_endolithicus_MAT
+[22:43:45] INFO - CCFEE_5001_Friedmanniomyces_endolithicus_MAT vs CCFEE_6074_Friedmanniomyces_endolithicus_MAT
+[22:43:45] INFO - CCFEE_5001_Friedmanniomyces_endolithicus_MAT vs CCFEE_6074_Friedmanniomyces_endolithicus_MATv1
+[22:43:45] INFO - CCFEE_5486_Friedmanniomyces_endolithicus_MAT vs CCFEE_6074_Friedmanniomyces_endolithicus_MAT
+[22:43:45] INFO - CCFEE_5486_Friedmanniomyces_endolithicus_MAT vs CCFEE_6074_Friedmanniomyces_endolithicus_MATv1
+[22:43:45] INFO - CCFEE_6074_Friedmanniomyces_endolithicus_MAT vs CCFEE_6074_Friedmanniomyces_endolithicus_MATv1
+[22:43:45] INFO - Generating results summary...
+[22:43:45] INFO - Building clustermap.js visualisation
+[22:43:45] INFO - Writing to: Fried_haploids2.html
+[22:43:46] INFO - Done!
+CCFEE_5001_Friedmanniomyces_endolithicus_MAT vs CCFEE_5486_Friedmanniomyces_endolithicus_MAT
+--------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR01_000884-T1  ncbi:LTR48_005673-T1  0.99      0.99      
+ncbi:LTR01_000885-T1  ncbi:LTR48_005672-T1  0.75      0.77      
+ncbi:LTR01_000886-T1  ncbi:LTR48_005671-T1  0.29      0.31      
+ncbi:LTR01_000887-T1  ncbi:LTR48_005670-T1  0.93      0.95      
+ncbi:LTR01_008091-T1  ncbi:LTR48_002473-T1  0.57      0.59      
+
+CCFEE_5001_Friedmanniomyces_endolithicus_MAT vs CCFEE_6074_Friedmanniomyces_endolithicus_MAT
+--------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR01_000884-T1  ncbi:LTR73_000442-T1  1.00      1.00      
+ncbi:LTR01_000885-T1  ncbi:LTR73_000443-T1  1.00      1.00      
+ncbi:LTR01_000886-T1  ncbi:LTR73_000444-T1  1.00      1.00      
+ncbi:LTR01_000887-T1  ncbi:LTR73_000445-T1  1.00      1.00      
+ncbi:LTR01_008089-T1  ncbi:LTR73_004298-T1  0.57      0.61      
+ncbi:LTR01_008090-T1  ncbi:LTR73_004299-T1  1.00      1.00      
+
+CCFEE_5001_Friedmanniomyces_endolithicus_MAT vs CCFEE_6074_Friedmanniomyces_endolithicus_MATv1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR01_008089-T1  ncbi:LTR73_004298-T1  0.57      0.61      
+ncbi:LTR01_008090-T1  ncbi:LTR73_004299-T1  1.00      1.00      
+ncbi:LTR01_008091-T1  ncbi:LTR73_004300-T1  1.00      1.00      
+
+CCFEE_5486_Friedmanniomyces_endolithicus_MAT vs CCFEE_6074_Friedmanniomyces_endolithicus_MAT
+--------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR48_005670-T1  ncbi:LTR73_000445-T1  0.93      0.95      
+ncbi:LTR48_005671-T1  ncbi:LTR73_000444-T1  0.29      0.31      
+ncbi:LTR48_005672-T1  ncbi:LTR73_000443-T1  0.75      0.77      
+ncbi:LTR48_005673-T1  ncbi:LTR73_000442-T1  0.99      0.99      
+
+CCFEE_5486_Friedmanniomyces_endolithicus_MAT vs CCFEE_6074_Friedmanniomyces_endolithicus_MATv1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR48_002473-T1  ncbi:LTR73_004300-T1  0.57      0.59      
+
+CCFEE_6074_Friedmanniomyces_endolithicus_MAT vs CCFEE_6074_Friedmanniomyces_endolithicus_MATv1
+----------------------------------------------------------------------------------------------
+Query                 Target                Identity  Similarity
+ncbi:LTR73_004297-T1  ncbi:LTR73_004297-T1  1.00      1.00      
+ncbi:LTR73_004298-T1  ncbi:LTR73_004298-T1  1.00      1.00      
+ncbi:LTR73_004299-T1  ncbi:LTR73_004299-T1  1.00      1.00      
