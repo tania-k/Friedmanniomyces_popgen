@@ -1,0 +1,39 @@
+K-mer statistics for: 
+ - Hash 1: "/dev/fd/63"
+ - Hash 2: "/dev/fd/62"
+
+Total K-mers in: 
+ - Hash 1: 3957085556
+ - Hash 2: 3957491817
+
+Distinct K-mers in:
+ - Hash 1: 157447790
+ - Hash 2: 215994920
+
+Total K-mers only found in:
+ - Hash 1: 102405198
+ - Hash 2: 164039217
+
+Distinct K-mers only found in:
+ - Hash 1: 98093532
+ - Hash 2: 156640662
+
+Shared K-mers:
+ - Total shared found in hash 1: 3854680358
+ - Total shared found in hash 2: 3793452600
+ - Distinct shared K-mers: 59354258
+
+Distance between spectra 1 and 2 (all k-mers):
+ - Manhattan distance: 6.18167e+07
+ - Euclidean distance: 5.55889e+07
+ - Cosine distance: 0.000171776
+ - Canberra distance: 50.9612
+ - Jaccard distance: 0.284045
+
+Distance between spectra 1 and 2 (shared k-mers):
+ - Manhattan distance: 4.06624e+06
+ - Euclidean distance: 609995
+ - Cosine distance: 0.00059686
+ - Canberra distance: 50.6874
+ - Jaccard distance: 0.066239
+

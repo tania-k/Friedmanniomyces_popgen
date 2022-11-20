@@ -1,0 +1,413 @@
+Reading tree BY
+Executing blformat command...
+Branch lengths assumed to be in units of numbers of substitutions per site
+Number of sites in sequences set to 340981
+All branch lengths multipled by the 340981 sites in the sequence
+Branch lengths rounded to nearest integer
+(This may not be a good idea when using CALIBRATE on ultrametric user supplied input trees. Use ROUND=NO then)
+Defining clade name: Asco
+Defining clade name: Euro
+Defining clade name: Dothid
+Defining clade name: Sordario
+Setting minimum age constraint for taxon Asco to 342.920000
+Setting maximum age constraint for taxon Asco to 414.920000
+Setting minimum age constraint for taxon Sordario to 201.330000
+Setting maximum age constraint for taxon Sordario to 239.610000
+Setting minimum age constraint for taxon Euro to 342.920000
+Setting maximum age constraint for taxon Euro to 414.920000
+Setting minimum age constraint for taxon Dothid to 311.980000
+Setting maximum age constraint for taxon Dothid to 393.000000
+Begin cross-validation analyses...
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 1.000000:
+Pruned taxon	Sq		ChiSq		Result
+    Ncra	97374308.09	  830.29	Good
+    Mory	20500027.19	  177.81	Good
+    Fgra	2080895619.68	13255.73	Good
+  AFPA01	10654229.14	  192.86	Good
+    PV07	4685980.23	   88.08	Good
+  NAJM01	7298766.33	  100.94	Good
+   EURHE	69720698.96	 1016.40	Good
+    Afum	1503379429.87	17836.76	Good
+   B0A54	7084495.44	  249.59	Good
+   B0A55	277201855.85	 7235.50	Good
+  MUNK01	3159696896.88	23074.40	Good
+  NOXB01	1886868350.30	13394.00	Good
+   B0A48	2621826323.01	18233.75	Good
+    Ylip	791803362.07	 2754.08	Good
+    Scer	22517928568.01	100748.54	Good
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 3.162278:
+Pruned taxon	Sq		ChiSq		Result
+    Ncra	69605067.79	  601.32	Good
+    Mory	9926594.01	   87.14	Good
+    Fgra	1592520508.84	10527.64	Good
+  AFPA01	16391213.60	  292.55	Good
+    PV07	1778647.16	   32.92	Good
+  NAJM01	15388026.23	  209.28	Good
+   EURHE	155361506.48	 2136.72	Good
+    Afum	1824085345.12	20676.24	Good
+   B0A54	664788.07	   21.99	Good
+   B0A55	358498077.86	 8830.86	Good
+  MUNK01	4163394428.48	28663.97	Good
+  NOXB01	2805982464.23	18655.86	Good
+   B0A48	3650638992.86	23859.37	Good
+    Ylip	116924192.55	  470.43	Good
+    Scer	30040631548.20	150020.38	Good
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 10.000000:
+Pruned taxon	Sq		ChiSq		Result
+    Ncra	70183480.22	  606.14	Good
+    Mory	11256188.78	   98.63	Good
+    Fgra	1518453729.21	10100.71	Good
+  AFPA01	29618200.39	  515.80	Good
+    PV07	 1467.22	    0.03	Good
+  NAJM01	37478787.35	  494.91	Good
+   EURHE	271708174.20	 3541.11	Good
+    Afum	2214530007.23	23922.56	Good
+   B0A54	169322.95	    5.38	Good
+   B0A55	423488401.65	10025.57	Good
+  MUNK01	5348219275.46	34761.31	Good
+  NOXB01	3926872063.56	24527.50	Good
+   B0A48	4899178213.74	30133.93	Good
+    Ylip	1217518520.97	 5423.97	Good
+    Scer	35463008789.46	191433.50	Good
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 31.622777:
+Pruned taxon	Sq		ChiSq		Result
+    Ncra	78024739.43	  671.22	Good
+    Mory	18602786.79	  161.65	Good
+    Fgra	1548051834.77	10271.77	Good
+  AFPA01	40300870.98	  690.93	Good
+    PV07	846458.51	   15.04	Good
+  NAJM01	57169336.13	  740.84	Good
+   EURHE	355345247.24	 4492.55	Good
+    Afum	2470253504.43	25944.32	Good
+   B0A54	952320.69	   29.74	Good
+   B0A55	456078797.86	10602.05	Good
+  MUNK01	6069016365.07	38259.45	Good
+  NOXB01	4623182415.79	27946.46	Good
+   B0A48	5668517643.67	33766.19	Good
+    Ylip	2068554911.62	 9671.49	Good
+    Scer	38024721221.92	212944.06	Good
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 100.000000:
+Pruned taxon	Sq		ChiSq		Result
+    Ncra	82584245.94	  708.89	Good
+    Mory	23084155.22	  199.74	Good
+    Fgra	1570463286.61	10400.90	Good
+  AFPA01	45236225.34	  770.56	Good
+    PV07	1654515.72	   29.20	Good
+  NAJM01	66660365.14	  857.13	Good
+   EURHE	392879657.30	 4906.87	Good
+    Afum	2580019213.72	26789.84	Good
+   B0A54	1403058.59	   43.53	Good
+   B0A55	468538361.35	10818.81	Good
+  MUNK01	6368817960.34	39673.97	Good
+  NOXB01	4915329095.30	29337.30	Good
+   B0A48	5990032798.16	35239.36	Good
+    Ylip	2430117458.24	11568.31	Good
+    Scer	38973891717.30	221256.59	Good
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 316.227766:
+Pruned taxon	Sq		ChiSq		Result
+    Ncra	84340156.67	  723.37	Good
+    Mory	24871888.59	  214.87	Good
+    Fgra	1579426359.88	10452.44	Good
+  AFPA01	47018919.41	  799.14	Good
+    PV07	1997977.33	   35.19	Good
+  NAJM01	70141639.07	  899.46	Good
+   EURHE	406334404.35	 5053.68	Good
+    Afum	2618721709.03	27084.96	Good
+   B0A54	1573167.69	   48.70	Good
+   B0A55	472752050.89	10891.68	Good
+  MUNK01	6473379114.40	40162.09	Good
+  NOXB01	5017532476.34	29818.25	Good
+   B0A48	6102343443.91	35748.20	Good
+    Ylip	2556151346.00	12241.83	Good
+    Scer	39290964408.96	224076.11	Good
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 1000.000000:
+Pruned taxon	Sq		ChiSq		Result
+    Ncra	85002998.21	  728.83	Good
+    Mory	25482376.33	  220.03	Good
+    Fgra	1582468304.75	10469.92	Good
+  AFPA01	47607776.87	  808.56	Good
+    PV07	2116951.73	   37.26	Good
+  NAJM01	71297121.33	  913.47	Good
+   EURHE	410769126.19	 5101.87	Good
+    Afum	2631408036.75	27181.37	Good
+   B0A54	1630029.51	   50.43	Good
+   B0A55	474114874.28	10915.21	Good
+  MUNK01	6507541662.32	40321.01	Good
+  NOXB01	5050948413.64	29974.88	Good
+   B0A48	6139046204.49	35913.86	Good
+    Ylip	2597271854.33	12462.94	Good
+    Scer	39393041913.40	224988.42	Good
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+.....................................................................
+
+CV Results for smoothing = 3162.277660:
+Pruned taxon	Sq		ChiSq		Result
+    Ncra	85354543.50	  731.72	Good
+    Mory	25679988.43	  221.70	Good
+    Fgra	1583459384.86	10475.61	Good
+  AFPA01	47796418.24	  811.57	Good
+    PV07	2155698.66	   37.93	Good
+  NAJM01	71668388.25	  917.97	Good
+   EURHE	412190776.56	 5117.30	Good
+    Afum	2635466854.43	27212.18	Good
+   B0A54	1648327.15	   50.98	Good
+   B0A55	474548905.03	10922.69	Good
+  MUNK01	6518444848.73	40371.67	Good
+  NOXB01	5061629699.82	30024.89	Good
+   B0A48	6150775492.13	35966.74	Good
+    Ylip	2610405931.95	12533.71	Good
+    Scer	39425484912.03	225278.85	Good
+********************************************************************************
+
+Results of cross validation analysis for tree BY
+Method = Penalized Likelihood
+
+log10
+smooth	smooth		Sq Error	Chi Square Error
+--------------------------------------------------------------------------------
+  0.00	     1		35056918911.05	199188.72	(Good)
+  0.50	   3.2		44821791401.47	265086.67	(Good)
+  1.00	    10		55431684622.40	335591.05	(Good)
+  1.50	    32		61479618454.93	376207.77	(Good)
+  2.00	 1e+02		63910712114.27	392601.01	(Good)
+  2.50	3.2e+02		64747549062.53	398249.97	(Good)
+  3.00	 1e+03		65019747644.13	400088.05	(Good)
+  3.50	3.2e+03		65106710169.77	400675.51	(Good)
+********************************************************************************
+
+Optimum:   0.00	     1		35056918911.05	199188.72
+********************************************************************************
+
+[Printing tree 1]
+
+[CHRONOGRAM of tree BY]
+                 +------------Ncra
+              +--+4
+  +-----------+Sordario-------Mory
+  |           |
+  |           +---------------Fgra
+  |
+  |                    +------AFPA01
+  |                  +-+11
++-+2 +---------------+10------PV07
+| |  |               |
+| |+-+Euro           +--------NAJM01
+| || |
+| || |               +--------EURHE
+| || +---------------+15
+| ||                 +--------Afum
+| ++8
+|  |                     +----B0A54
++Asco          +---------+20
+|  |   +-------+19       +----B0A55
+|  |   |       |
+|  +---+Dothid +--------------MUNK01
+|      |
+|      |      +---------------NOXB01
+|      +------+24
+|             +---------------B0A48
+|
+|        +--------------------Ylip
++--------+27
+         +--------------------Scer
+
+[Printing tree 1]
+
+[TREE DESCRIPTION of tree BY]
+
+tree BY = ((((Ncra:170.547459,Mory:170.547459):36.398118,Fgra:206.945578)Sordario:168.834594,((((AFPA01:85.082653,PV07:85.082653):27.443265,NAJM01:112.525918):230.394082,(EURHE:103.725704,Afum:103.725704):239.194296)Euro:25.318015,(((B0A54:48.415742,B0A55:48.415742):138.419264,MUNK01:186.835007):125.144993,(NOXB01:206.469520,B0A48:206.469520):105.510480)Dothid:56.258015):7.542156):39.139829,(Ylip:272.497303,Scer:272.497303):142.422697)Asco;
+[Printing tree 1]
+
+[TREE DESCRIPTION of tree BY]
+
+tree BY = ((((Ncra:170.547459,Mory:170.547459):36.398118,Fgra:206.945578)Sordario:168.834594,((((AFPA01:85.082653,PV07:85.082653):27.443265,NAJM01:112.525918):230.394082,(EURHE:103.725704,Afum:103.725704):239.194296)Euro:25.318015,(((B0A54:48.415742,B0A55:48.415742):138.419264,MUNK01:186.835007):125.144993,(NOXB01:206.469520,B0A48:206.469520):105.510480)Dothid:56.258015):7.542156):39.139829,(Ylip:272.497303,Scer:272.497303):142.422697)Asco;
+-----------------------------------------------------------------------------------------
+Estimated ages and substitution rates for tree BY
+
+Reconstruction method: Penalized likelihood
+Named internal nodes indicated by [*]
+Rates are for branches subtending indicated node
+Rates are in units of substitutions per site per unit time
+
+				  Constraints				Rates
+	Node	   Fix [Mod]	  Min	  Max	  Age		Estimated	Local
+-----------------------------------------------------------------------------------------
+ [*]  Asco	       [0] 	 342.92	 414.92	 414.92		
+     (2)	       [0] 	   --      --	 375.78		1.8831e-03	1.0157e-02
+ [*]  Sordario	       [0] 	 201.33	 239.61	 206.95		1.8831e-03	1.5638e-03
+     (4)	       [0] 	   --      --	 170.55		1.8831e-03	1.8687e-03
+      Ncra	     * [0] 	   --      --	   0.00		1.8831e-03	1.8470e-03
+      Mory	     * [0] 	   --      --	   0.00		1.8831e-03	1.9047e-03
+      Fgra	     * [0] 	   --      --	   0.00		1.8831e-03	1.5782e-03
+     (8)	       [0] 	   --      --	 368.24		1.8830e-03	1.0476e-02
+ [*]  Euro	       [0] 	 342.92	 414.92	 342.92		1.8829e-03	5.5359e-03
+     (10)	       [0] 	   --      --	 112.53		1.8829e-03	1.7485e-03
+     (11)	       [0] 	   --      --	  85.08		1.8829e-03	1.8172e-03
+      AFPA01	     * [0] 	   --      --	   0.00		1.8829e-03	1.7917e-03
+      PV07	     * [0] 	   --      --	   0.00		1.8829e-03	1.9084e-03
+      NAJM01	     * [0] 	   --      --	   0.00		1.8829e-03	1.8141e-03
+     (15)	       [0] 	   --      --	 103.73		1.8829e-03	1.1073e-03
+      EURHE	     * [0] 	   --      --	   0.00		1.8829e-03	1.7034e-03
+      Afum	     * [0] 	   --      --	   0.00		1.8828e-03	1.2868e-03
+ [*]  Dothid	       [0] 	 311.98	 393.00	 311.98		1.8829e-03	6.8232e-03
+     (19)	       [0] 	   --      --	 186.84		1.8828e-03	6.9434e-04
+     (20)	       [0] 	   --      --	  48.42		1.8828e-03	1.3100e-03
+      B0A54	     * [0] 	   --      --	   0.00		1.8828e-03	1.8806e-03
+      B0A55	     * [0] 	   --      --	   0.00		1.8828e-03	1.3121e-03
+      MUNK01	     * [0] 	   --      --	   0.00		1.8828e-03	1.2671e-03
+     (24)	       [0] 	   --      --	 206.47		1.8828e-03	8.1635e-04
+      NOXB01	     * [0] 	   --      --	   0.00		1.8828e-03	1.3840e-03
+      B0A48	     * [0] 	   --      --	   0.00		1.8828e-03	1.3151e-03
+     (27)	       [0] 	   --      --	 272.50		1.8835e-03	2.7913e-03
+      Ylip	     * [0] 	   --      --	   0.00		1.8836e-03	2.7914e-03
+      Scer	     * [0] 	   --      --	   0.00		2.0064e-03	4.0205e-03
+-----------------------------------------------------------------------------------------
+
+Summary of rate variation (substitutions per site per unit time)
+  Mean    = 0.001887
+  Std Dev = 2.333e-05
+  Min     = 0.001883
+  Max     = 0.002006
+  Range   = 0.0001236
+  Ratio   =  1.066
